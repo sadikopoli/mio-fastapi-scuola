@@ -3,8 +3,8 @@ esempio in python di un server
 
 #MUSH
 
-***questo e un messaggio importante
+***questo e un messaggio importante***
 
--uno 
--tre
--due dita
+ -uno
+ -tre
+ -due dita
