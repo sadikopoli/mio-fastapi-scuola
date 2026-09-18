@@ -2,9 +2,9 @@
 esempio in python di un server
 
 # MUSH
-polenta polentosa
-***questo e un messaggio importante***
 
+***questo e un messaggio importante:***
+polenta polentosa
  - uno
  - tre
  - due dita
